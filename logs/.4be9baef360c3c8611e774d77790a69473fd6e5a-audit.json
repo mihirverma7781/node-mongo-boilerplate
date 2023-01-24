@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 5
+    },
+    "auditLog": "logs/.4be9baef360c3c8611e774d77790a69473fd6e5a-audit.json",
+    "files": [
+        {
+            "date": 1674590233725,
+            "name": "logs/udemyBackend-2023-01-25-logs.log",
+            "hash": "0034b8e7c17571dda2a9970d5c0cf9d1bf0cc80781c4ed088467314bd989b2b6"
+        }
+    ],
+    "hashType": "sha256"
+}
